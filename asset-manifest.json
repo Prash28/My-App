@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prash28/My-App.git/static/css/main.f85cb2e2.css",
+    "main.js": "/Prash28/My-App.git/static/js/main.157958b9.js",
+    "static/js/592.d2daad70.chunk.js": "/Prash28/My-App.git/static/js/592.d2daad70.chunk.js",
+    "index.html": "/Prash28/My-App.git/index.html",
+    "main.f85cb2e2.css.map": "/Prash28/My-App.git/static/css/main.f85cb2e2.css.map",
+    "main.157958b9.js.map": "/Prash28/My-App.git/static/js/main.157958b9.js.map",
+    "592.d2daad70.chunk.js.map": "/Prash28/My-App.git/static/js/592.d2daad70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85cb2e2.css",
+    "static/js/main.157958b9.js"
+  ]
+}
